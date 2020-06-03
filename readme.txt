@@ -1,0 +1,1 @@
+This is a readme.txt file for HNG internship 7.0
